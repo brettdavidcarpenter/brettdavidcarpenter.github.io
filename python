@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <title>  Python Wednesday | Brett Carpenter  </title>
+  <meta name="description" content=" Welcome! "/>
+   <link rel="canonical" href="https://brettdavidcarpenter.github.io/newsletter/"> 
+  </head>
+  
+  <body>
+  
+  <h1>Here are my favorite resources for learning python programming</h1>
+  <ol>
+    <li><a href="https://www.udacity.com/"> Intro to Programming by Udacity</a>
+    <li><a href="https://training.talkpython.fm/courses/details/python-language-jumpstart-building-10-apps"> Python Jumpstart Building 10 apps</a>
+    <li><a href="http://codingbat.com/python"> Coding Bat Puzzles </a>
+    
+    <h2>Hope you enjoy learning python</h2>
+    <p> Sincerely, <br>
+    Brett</p>
+    </body>
