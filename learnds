@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <title>  Zell Liew  </title>
+  <meta name="description" content=" Hey, I&#39;m Zell. I&#39;m a designer, developer and writer. This is where I share everything I know. "/>
+   <link rel="canonical" href="https://zellwk.com/learnjs/index/"> 
+  
+
+  
+<link rel="apple-touch-icon" sizes="180x180" href="/images/favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicons/favicon-16x16.png">
+<link rel="manifest" href="/images/favicons/manifest.json">
+<link rel="mask-icon" href="/images/favicons/safari-pinned-tab.svg" color="#fd256e">
+<link rel="shortcut icon" href="/images/favicons/favicon.ico">
+<meta name="msapplication-config" content="/images/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+  
+  <link rel="stylesheet" href="/css/styles-237bae0705.css">
+
+
+<script>
+  (function(d) {
+    var config = {
+      kitId: 'tsd8lrs',
+      scriptTimeout: 3000,
+      async: true
+    },
+    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+  })(document);
+</script>
+
+  
+
+<meta property="og:site_name" content="Zell Liew"/>
+
+  <meta property="og:title" content=" Zell Liew "/> 
+
+
+  <meta name="og:description" content=" Hey, I&#39;m Zell. I&#39;m a designer, developer and writer. This is where I share everything I know.
+  " />
+
+
+<meta property="og:email" content="zellwk@gmail.com">
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://zellwk.com"/>
+
+
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@zellwk">
+<meta name="twitter:creator" content="@zellwk">
+<meta name="twitter:title" content=" | Zell Liew">
+
+  <meta name="twitter:description" content=" Hey, I&#39;m Zell. I&#39;m a designer, developer and writer. This is where I share everything I know.
+  " />
+
+
+
+
+<link rel="author" href="https://plus.google.com/u/0/107981139229061135975">
+
+</head>
+<body class="t-blue page-salespage">
+  
+    <div class="c-site-container">
+      
+<header>
+  <div class="l-wrap">
+    <nav class="c-main-nav l-wrap__full">
+      <div>
+        <a class="c-main-nav__logo" href="/about">
+          <div class="o-zell"><svg id="zell" viewBox="0 0 90 30">
+  <title> Zell </title>
+  <g>
+    <g class="z">
+      <path class="o-zell__bar" d="M0 0v6.332h24.336L24.384 0z"/>
+      <path class="o-zell__text" d="M24.336 6.332h-8.154L0 23.425v6.332h24.336v-6.38H9.562z"/>
+    </g>
+    <path class="e o-zell__text" d="M45.706 29.757v-5.34H34.657v-3.614h9.194v-4.941h-9.194V12.28h11.05V6.956H27.893v22.801z"/>
+    <path class="l1 o-zell__text" d="M68.124 29.757v-5.9H57.938V6.956h-7.275v22.801z"/>
+    <path class="l2 o-zell__text" d="M89.646 29.757v-5.9H79.461V6.956h-7.276v22.801z"/>
+  </g>
+</svg>
+</div>
+        </a>
+      </div>
+    </nav>
+  </div>
+</header>
+
+      <main id="main">
+<div class="l-wrap">
+  <article class="o-words">
+    
+
+<h1> <h1 id="overcome-your-fear-of-javascript-and-learn-to-build-components-from-scratch-">Overcome your fear of JavaScript and learn to build components from scratch!</h1>
+ </h1>
+
+<div class="l-article__text">
+
+  <p>Let’s be honest. JavaScript IS hard. It’s abstract. It’s hard to grasp. It’s especially hard if you’re self-taught. Sometimes, you feel like a total fraud because you don’t have a Computer Science background to back you up.</p>
+<p>I don’t have to say much more. You’ve already experienced it all. You’ve tried learning JavaScript and you know how horrible it can feel.</p>
+<ul>
+<li>You’ve read tutorials that are either too easy (ugh, such a waste of time!) or too difficult for you.</li>
+<li>You’ve read documentation about frameworks like (React, Angular and Vue) and went… “huh?!”.</li>
+<li>You’ve tried things out, hoping they’ll work (but they don’t), and you can’t help but feel frustrated.</li>
+<li>Sometimes, you feel really fucking stupid when your code refuses to work even though you coded along with a tutorial!</li>
+</ul>
+<p><strong>You struggled to write code from scratch.</strong></p>
+<p>When you face that blank JavaScript file, your mind goes equally blank. Your only hope is to copy/paste and modify what you find online. You’re sick of doing that.</p>
+<p>You want to build real things.</p>
+<p>You want to be confident in JavaScript.</p>
+<p>You want to be able to code from scratch.</p>
+<h2 id="you-want-to-be-a-real-developer">You want to be a real developer</h2>
+<p>But you can’t. You’ve bought many courses and books about JavaScript, but you still can’t grasp it.</p>
+<p>If you can’t get JavaScript, how can you understand the more advanced stuff?</p>
+<p>You think to yourself: <strong>“Can you really become a web developer, get a job, freelance, build a startup and make cool shit?”</strong>. That dream seems to float farther and farther away every single day.</p>
+<p>It’s tough. I get you. I’m crying as I write this, because I remember the days when I felt the same way.</p>
+<p>I hated JavaScript, but I wanted to learn it so much.</p>
+<p>I tried everything I could, but I couldn’t understand it no matter what I tried.</p>
+<p>I became afraid of JavaScript. I was convinced I couldn’t be a programmer. I believed I didn’t know how to think like one, and I almost gave up on learning JavaScript altogether.</p>
+<p>Almost.</p>
+<p>I didn’t know how to best learn JavaScript. I didn’t know how to do things the right way. I second guessed-myself every day.</p>
+<p>But I didn’t give up. I spent three years of my life, hammering away at JavaScript and other web technologies. I spent all my waking hours, trying to understand what the fuck was happening.</p>
+<p>And I was all alone on this learning journey. I didn’t have a mentor to guide me. All I had was Google and my desire to build real things. (But Google doesn’t help much. If it did, we wouldn’t have suffered so much when learning).</p>
+<p>It was a long hard process, filled with stressful nights. I felt confused, overwhelmed and paralyzed every single day.</p>
+<p>But that was all in the past.</p>
+<p><strong>Now, I’m extremely confident in my JavaScript skills.</strong></p>
+<p>I’ve built crazy 💩 with JavaScript that you can’t possibly imagine yourself building. For example, I built a static site generator that runs my blog, zellwk.com, purely with JavaScript. Can you imagine that?</p>
+<p>Now, you can throw any JavaScript problem at me and I’ll be able to solve it, even if I can’t find the answers on Google.</p>
+<p>I know how to think like a developer, I know how to build things from scratch, and I can tweak things to my liking whenever I want.</p>
+<p><strong>You can be good with JavaScript too.</strong></p>
+<h2 id="you-can-be-master-javascript-even-if-you-didn-t-study-computer-science-">You can be master JavaScript – even if you didn’t study computer science.</h2>
+<p>If there’s one thing I discovered while learning JavaScript, it’s this – <strong>you don’t need to have a programming background to learn JavaScript</strong>. Knowing computer science and being great at JavaScript are two separate things altogether. You don’t even need to have a programming mind to begin with.</p>
+<p><strong>What you need is the time, persistence and willingness to learn it.</strong></p>
+<p>And you know what’s the surprising thing?</p>
+<p>You already have an advantage over others because you’re teaching yourself JavaScript – you’re hungry, you want to learn, and you’re willing to invest your time and energy to learn whenever you can! That’s why you can learn JavaScript. You got the spirit to do so.</p>
+<h2 id="but-you-don-t-have-time-">But you don’t have time.</h2>
+<p>You have a job and a family to take care of. You’re time is limited, but you’re not only limited by time.</p>
+<p><strong>When you get off work, you don’t have the motivation and energy to learn JavaScript anymore.</strong></p>
+<p>You can’t bring yourself to even think about JavaScript. All you want to do is to hit the couch and relax for the day.</p>
+<p><strong>But what if you don’t need to think about what’s right or what’s wrong?</strong></p>
+<p>What if you have a curriculum with short lessons that take you less than 30 minutes to complete each day?</p>
+<p>What if someone shows you what you need to learn about JavaScript in a simple, understandable and coherent manner?</p>
+<p>What if someone shows you, step-by-step, how to build the things you’ve always wanted to build, from scratch?</p>
+<p>What if you could explore JavaScript on your own, build cool 💩, break stuff and build even cooler 💩?</p>
+<p>Wouldn’t you have fun learning JavaScript?</p>
+<p>Is that even possible?</p>
+<p>It is.</p>
+<h2 id="learn-javascript-with-simple-step-by-step-lessons-that-teach-you-what-you-need-to-know-">Learn JavaScript with simple, step-by-step lessons, that teach you what you need to know.</h2>
+<p>I’m Zell.</p>
+<p><img width="300" src="/images/zell-profile-pic.jpg" alt="A picture of Zell"></p>
+<p>You heard my crazy story. You know I taught myself JavaScript, and you know I’ve been through the struggles you’re going through right now.</p>
+<p>Because I’ve been through the process, I know what questions you ask when you learn JavaScript. I know how to answer those questions in a way that makes sense to you. I’ve already helped thousands of developers like you learn frontend technologies (JavaScript included) through my blog for years.</p>
+<blockquote>What I loved about Zell’s work is that they’re really detailed but not overwhelming. He guided me slowly, from basics to more advanced concepts, step by step, taking time to make sure I understood everything before going deeper. He understood my needs, offered solutions, but doesn’t force me into a one.
+<cite>Pierre Wizla, frontend developer</cite>
+</blockquote>
+
+<p>Pierre here is one success story.</p>
+<p><strong>You can be a success story too. You can become so good with JavaScript that it no longer scares you.</strong></p>
+<p>You can remember JavaScript like the back of your hand even if you didn’t touch it for three months.</p>
+<p>You can build cool, interactive websites from scratch, and when you do, you can stand proud and exclaim “Here! I built this!”.</p>
+<p>The point is, you can become an amazing frontend developer.</p>
+<p>And you don’t need to spend three years, living day to day in confusion to learn JavaScript. Far from it, <strong>you can learn JavaScript in a few short months.</strong></p>
+<p>Would you like to know how?</p>
+<p>I’ve built a course for you to show you the ropes, step by step, bringing all the way from a novice to an amazing developer. It’s called Learn JavaScript.</p>
+<h2 id="introducing-learn-javascript">Introducing Learn JavaScript</h2>
+<p>What if you could stop copy/pasting code and become a real developer?</p>
+<p>What if you could build cool, interactive components from scratch without having to stare at your blank JavaScript file for ages?</p>
+<p>What if you could learn JavaScript without feeling overwhelmed and confused along the way?</p>
+<p>I’ve got your back in Learn JavaScript.</p>
+<p><strong>In Learn JavaScript, you’ll learn everything it takes – from the absolute basics to the advanced stuff – to become great at JavaScript.</strong></p>
+<p>When you complete the course, you’ll know JavaScript by heart. You’ll feel confident in your knowledge, and you’ll be able to show off your ability (like ace that job interview when they ask you JavaScript related questions).</p>
+<p>When you get a request to build something, you won’t hesitate and wonder if you can build it. You’ll know you can build it, and you’ll have the confidence to say “Sure, let’s talk about why you want this and how much you’re willing to pay for it”.</p>
+<h2 id="you-ll-learn-to-build-20-real-components">You’ll learn to build 20 real components</h2>
+<p><strong>What makes Learn JavaScript unique is you’ll learn to build real components from scratch</strong> – components that are used everyday in websites like carousels and accordions. You’ll build 20 of these components in total.</p>
+<p>By the end of these 20 components, you’ll be fluent with JavaScript. You’ll know JavaScript so well that you’re no longer afraid of it. You’ll remember it for life.</p>
+<p>Before building these components, you’ll learn the necessary JavaScript fundamentals you need – so you can build these components without getting confused. Each lesson is concise (you’ll need no longer than 15mins to complete 1 lesson), and will drive the concepts straight into your head.</p>
+<p>To have a sense of what you’ll learn in Learn JavaScript, read through the module highlights below. You’ll see what you’ll build (real components you can show off!) while you’re learning JavaScript.</p>
+<h2 id="modules-4-5-and-6-build-components-from-scratch">Modules 4, 5 and 6 – Build components from scratch</h2>
+<p><strong>Most courses stop teaching you once you’ve learned JavaScript basics and expect you know what to do next. That’s not enough.</strong></p>
+<p>To build real components, you need to be able to speak to browsers. That means you need to understand how HTML, CSS and JavaScript work together in browsers and learn to manipulate them as you wish. You also need to understand how to structure your components before you build them.</p>
+<p><strong>You’ll learn the basics as you build five components from scratch. They are:</strong></p>
+<ol>
+<li>Off-canvas sidebar menu</li>
+<li>Modal windows</li>
+<li>accordions</li>
+<li>Tabbed interfaces</li>
+<li>Carousels</li>
+</ol>
+<p>Here, you’ll learn how to write your HTML and CSS for each component and you’ll learn how JavaScript comes into the picture (hint: there’s very little JavaScript!).</p>
+<p>To top it off, <strong>you’ll even learn to animate these components</strong> to make them more appealing to your users. If you want to build interactive websites, these lessons are a must-learn for you!</p>
+<div class="image-grid">
+  <figure>
+    <img src="/images/learnjs/off-canvas.gif" alt="Off-canvas sidebar menu">
+    <figcaption>Off-canvas sidebar menu</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/images/learnjs/modal.gif" alt="Modal window">
+    <figcaption>Modal window</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/images/learnjs/accordion.gif" alt="Accordion">
+    <figcaption>Accordion</figcaption>
+  </figure>
+</div>
+
+<h3 id="module-2-javascript-basics">Module 2 – JavaScript Basics</h3>
+<p>Before you build the components, you need to understand some JavaScript basics, or you’ll get stuck and become confused.</p>
+<p><strong>But don’t worry if you forgot everything about JavaScript, or if you haven’t learn any JavaScript yet.</strong> Learn JavaScript teaches you right from the beginning, even to a point where you learn how to link your JavaScript file to your HTML file. It is that thorough.</p>
+<p>In Module 2, you’ll get <strong>17 lessons</strong> to help you through the absolute basics.</p>
+<p>If 17 lessons sound like a lot to you, it’s actually a good thing! Everything you need to know is covered in these 17 lessons. You only need to go through them and you’ll be set. (Compare learning 17 lessons against google and you’ll know how much time you’ll save).</p>
+<p><strong>Here’s a summary of the 17 lessons:</strong></p>
+<ol>
+<li>Linking Your JavaScript File</li>
+<li>The console</li>
+<li>Strings, Numbers and Booleans</li>
+<li>Comments</li>
+<li>Declaring Variables</li>
+<li>On semicolons</li>
+<li>All about Functions</li>
+<li>Arrow functions</li>
+<li>Scopes and Closures</li>
+<li>Intro to objects</li>
+<li>Intro to arrays</li>
+<li>If/else statements</li>
+<li>&amp;&amp;, || and !</li>
+<li>Null and undefined</li>
+<li>For loops</li>
+<li>Debugging errors</li>
+<li>Callbacks</li>
+</ol>
+<p><strong>What’s in Module 1?</strong></p>
+<p>In Module 1, you get a sense of what’s coming up in your life as a developer. You’ll get introduced to JavaScript, learn how to use it, when to use it and how to navigate the massive JavaScript world that’s full of frameworks and plugins.</p>
+<h3 id="modules-6-to-15-intermediate-javascript">Modules 6 to 15 – Intermediate JavaScript</h3>
+<p>If you feel that your code is messy, if you’re worried that you’re not using the best practices, or if you want to build more advanced components but don’t know where to start, relax. You’re covered in Modules 6 to 15.</p>
+<p>In these modules, you’ll learn about JavaScript best practices. You’ll learn whether you should use <strong>Functional Programming</strong> or <strong>Objected Oriented Programming</strong>, and even how to use both of them effectively.</p>
+<p>You also learn about important topics like <strong>asynchronous JavaScript</strong>, <strong>progressive enhancement</strong>, <strong>building accessible interfaces</strong>, <strong>creating modular and reusable components</strong> – everything you need to bring yourself from a novice to an intermediate (almost advanced) developer!</p>
+<p>And I promised you 20 components, didn’t I? In modules 6 to 15, you’ll build 14 more components. You’ll also improve on the 5 you’ve built previously. These 14 components are:</p>
+<ol>
+<li>To-do list</li>
+<li>Autocomplete input</li>
+<li>Calculator UI</li>
+<li>Tooltip</li>
+<li>Date picker</li>
+<li>A Google Maps component</li>
+<li>A loading indicator</li>
+<li>Twitter feed</li>
+<li>Infinite Scroll</li>
+<li>Auto-hiding sticky nav</li>
+<li>Same-page scroll link</li>
+<li>Infinite-scrolling page</li>
+<li>Scrollspy component</li>
+<li>Drag and Drop component</li>
+</ol>
+<p>(More images to be released in future 😉).</p>
+<h3 id="modules-16-and-17-from-vanilla-javascript-to-frontend-frameworks">Modules 16 and 17 – From vanilla JavaScript to frontend frameworks</h3>
+<p>Do you want to build web applications, but don’t know where to start?</p>
+<p>Maybe you read somewhere that you need to use frontend frameworks like React, Angular and Vue. You’ve tried them, but you realize you don’t understand what their documentations are saying.</p>
+<p>It’s normal.</p>
+<p><strong>Many people learn frontend frameworks, hoping that these frameworks will help them build web applications.</strong></p>
+<p>These people are putting the cart before the horse. It’s like saying you only need to learn JavaScript to build real components, but in fact, you need to know enough HTML, CSS and JavaScript and how they interactive with each other.</p>
+<p>The truth is, to build real applications, you need to learn how to structure your application and how to code it up. And that’s what you will learn in Modules 16 and 17.</p>
+<p>You will build a single-page application that allows you to create and customize greeting cards in these modules.</p>
+<figure>
+  <img src="/images/learnjs/spa.png" alt="A greeting-card generator">
+  <figcaption>A greeting-card generator</figcaption>
+</figure>
+
+<p>Once you’ve learned the core stuff, you’ll be able to pick up frontend frameworks and build any application you want.</p>
+<h2 id="learn-javascript-will-be-released-in-january-2018-">Learn JavaScript will be released in January 2018.</h2>
+<p>In short, Learn JavaScript contains 17 modules. You’ll get lots of content (which will take you thousands of hours to find yourself) to help you become amazing at JavaScript.</p>
+<p>Honestly, I can’t wait for you to have these lessons and so you can start building things from scratch!</p>
+<p>But you’ll have to wait – Learn JavaScript isn’t completed yet. I’m writing Learn JavaScript as you read this. It’ll will be released in January 2018.</p>
+<p><strong>If you’re interested to hear about Learn JavaScript, leave your name and email below!</strong></p>
+<blockquote>
+  <p>Learn JavaScript is the first JavaScript course I’ve taken didn’t come across as a boring series of lectures about topics that are no longer relevant in the modern JS ecosystem.</p>
+
+  <p>It has become one of my favorite reference resources due to Zell’s ability to present content in a crystal clear way that avoids anything non-essential.</p>
+
+  <p>The content is concise and pragmatic. If you are self-taught this course will feel like you are learning from a future version of yourself sent back in time to turn you into a JS wizard.</p>
+
+  <cite>Christian boyle, frontend developer</cite>
+</blockquote>
+
+<p>(By the way, the skills you’re learning in Learn JavaScript are the core skills you need as a frontend developer. I made $8,000 a month when I knew only half of what you’ll learn in Learn JavaScript when I freelanced. Imagine your potential as a freelancer or employee once you complete the course!).</p>
+
+</div>
+
+
+
+<section class="c-ck l-ck--standard jsCkForm" data-redirect="/learnjs/thanks">
+  
+
+  
+    <script defer id="_ck_282474" src="https://forms.convertkit.com/282474?v=6"></script>
+  
+
+</section>
+
+
+  </article>
+</div>
+</main>
+
+      
+  
+  
+<footer class="c-footer c-footer--blank"></footer>
+
+
+    </div>
+  
+
+  <div class="c-offsite-container jsOffsiteContainer">
+  <div class="c-offsite">
+    <div class="c-offsite__header">
+      <a class="c-main-nav__logo" href="/about">
+        <div class="o-zell--white"><svg id="zell" viewBox="0 0 90 30">
+  <title> Zell </title>
+  <g>
+    <g class="z">
+      <path class="o-zell__bar" d="M0 0v6.332h24.336L24.384 0z"/>
+      <path class="o-zell__text" d="M24.336 6.332h-8.154L0 23.425v6.332h24.336v-6.38H9.562z"/>
+    </g>
+    <path class="e o-zell__text" d="M45.706 29.757v-5.34H34.657v-3.614h9.194v-4.941h-9.194V12.28h11.05V6.956H27.893v22.801z"/>
+    <path class="l1 o-zell__text" d="M68.124 29.757v-5.9H57.938V6.956h-7.275v22.801z"/>
+    <path class="l2 o-zell__text" d="M89.646 29.757v-5.9H79.461V6.956h-7.276v22.801z"/>
+  </g>
+</svg>
+</div>
+      </a>
+      <a href="#" class="c-offsite__close jsOffsiteClose">&times;</a>
+    </div>
+    <div class="c-offsite__content">
+      
+      
+<nav class="c-offsite__nav">
+  <a href="/about" class="o-navlink--offsite">About</a>
+  <a href="/blog" class="o-navlink--offsite">Articles</a>
+  <a href="/newsletter" class="o-navlink--offsite">Newsletter</a>
+  <a href="/products" class="o-navlink--offsite">Products</a>
+  <a href="/apply" class="o-navlink--offsite">Hire me</a>
+</nav>
+
+    </div>
+  </div>
+</div>
+  <div class="c-modal-container jsModalContainer">
+  <div class="l-wrap">
+    <div class="c-modal jsModal jsLoader">
+      <h3 class="c-modal__title jsModalTitle jsLoaderTitle">Hold on while i sign you up&hellip;</h3>
+
+      <div class="c-modal__content c-post">
+        <div class="c-loader">
+          <div class="c-loader__spinner-container">
+            <div class="c-loader__spinner o-spinner jsSpinner">
+              <div class="o-spinner__item--pink"></div>
+              <div class="o-spinner__item"></div>
+              <div class="o-spinner__item"></div>
+            </div>
+            <div class="c-loader__success-icon jsSuccessIcon">🤗</div>
+          </div>
+
+          <div class="c-loader__messages jsLoaderMessages jsModalMessages">
+            <div class="jsModalSuccessText">Woohoo! You&rsquo;re in!</div>
+            <div>Now, hold on while I redirect you.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+
+
+
+  <script src="/js/vendor-4d683344dc.js"></script>
+  <script src="/js/main-f37cdef9be.js"></script>
+  <script defer>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-34947087-3', 'auto');
+    if(``) {ga('set', 'dimension1', ``); }
+    ga('send', 'pageview');
+  </script>
+
+  <!-- Hotjar Tracking Code for https://zellwk.com -->
+  <script defer>
+    (function(h,o,t,j,a,r){
+      h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+      h._hjSettings={hjid:500360,hjsv:5};
+      a=o.getElementsByTagName('head')[0];
+      r=o.createElement('script');r.async=1;
+      r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+      a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+</html>
